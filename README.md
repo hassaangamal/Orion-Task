@@ -119,8 +119,6 @@ Potential sources of duplication:
 - **Data Deep Dive**: Further analyze product-level sales, inventory levels, and supplier performance in 2008–2009.  
 - **Stakeholder Alignment**: Present findings to sales, supply chain, and regional teams to develop corrective actions.  
 
-Would you like additional breakdowns by product line or customer segment?
-
 ---
 # Data modeling 
 
